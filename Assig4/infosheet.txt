@@ -1,0 +1,17 @@
+Name: Matthew Gutkin	Assignment #: 4
+Lecture Day and Time: Tu & Thu 9:30am
+Recitation Day and Time: W 4pm
+Program Due Date: 4/13/2020
+Handed in Date: 4/13/2020
+
+Source code (.java) file name(s): Assig4.java, SimplePivot.java, MedOfThree.java, RandomPivot.java, QuickSort.java, MergeSort.java, Partitionable.java, Sorter.java, SortTest.java
+
+Input / output file nme(s) (if applicable): A-32-Random.txt, A-32-Random.txt, A-64-Random.txt, A-128-Random.txt, A-256-Random.txt, A-512-Random.txt, A-1-Sorted.txt, A-2-Sorted.txt, A-4-Sorted.txt, A-8-Sorted.txt
+
+Does your program compile without error? yes
+If not, what is/are the error(s)?: 
+
+Does your program run without error?: yes
+If not, what is/are the error(s) and which parts of your program run correctly?:
+
+Additional comments (including problems and extra credit):
