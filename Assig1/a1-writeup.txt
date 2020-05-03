@@ -1,0 +1,3 @@
+1. Multi-queue seems to be a preferable method to queuing customers. In multiple variations of this experiment, more customers were served on the multi-queue variations every time. In the case of 4 tellers, the single queue served 144 customers while the multi-queue version served 201 customers. That approximately a 25% difference in how many customers served. I believe that 
+
+2. I believe that 4 tellers is the optimal. I believe this because after this point, average wait times only increase. No customer likes to wait, so this is obviously bad for business. Also, after this point, total number of customers served only marginally increases with each new teller.

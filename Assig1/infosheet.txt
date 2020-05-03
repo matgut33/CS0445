@@ -1,0 +1,17 @@
+Name: Matthew Gutkin	Assignment #: 1
+Lecture Day and Time: Tu & Thu 9:30am
+Recitation Day and Time: W 4pm
+Program Due Date: 2/4/2020
+Handed in Date: 2/4/2020
+
+Source code (.java) file name(s): ArrivalEvent.java, Assig1.java, CompletionEvent.java, CompletionLocEvent.java, Customer.java, RandDist.java, SimBank.java, SimEvent.java, Teller.java
+I
+nput / output file nme(s) (if applicable): a1-out1.txt, a1-out2.txt, a1-out3.txt, a1-out4.txt, a1-out5.txt, a1-out6.txt
+
+Does your program compile without error? yes
+If not, what is/are the error(s)?: 
+
+Does your program run without error?: yes
+If not, what is/are the error(s) and which parts of your program run correctly?:
+
+Additional comments (including problems and extra credit): output 3 doesn't seem to come out correctly and when 6 tellers are used, customers do not seem to use it.
