@@ -1,0 +1,17 @@
+Name: Matthew Gutkin	Assignment #: 3
+Lecture Day and Time: Tu & Thu 9:30am
+Recitation Day and Time: W 4pm
+Program Due Date: 3/27/2020
+Handed in Date: 3/18/2020
+
+Source code (.java) file name(s): Assig3.java
+
+Input / output file nme(s) (if applicable): sample.txt, sample2.txt, sample3.txt, sample4.txt,
+
+Does your program compile without error? yes
+If not, what is/are the error(s)?: 
+
+Does your program run without error?: yes
+If not, what is/are the error(s) and which parts of your program run correctly?:
+
+Additional comments (including problems and extra credit):
