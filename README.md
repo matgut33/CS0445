@@ -2,7 +2,7 @@
 #### Taught by John. C Ramirez, Spring 2020 
 
 #### I DO NOT CONDONE PLAGARISM
-#### Please read all infosheets, some assigs contain errors
+#### Please read all infosheets, some assignments contain known problems
 
 ## Assigment 1
 Bank simulation
