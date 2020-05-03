@@ -4,7 +4,7 @@
 #### I DO NOT CONDONE PLAGARISM
 #### Please read all infosheets, some assignments contain known problems
 
-## Assigment 1
+## Assignment 1
 Bank simulation
 
 ## Assignment 2
